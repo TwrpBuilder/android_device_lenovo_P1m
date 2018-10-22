@@ -18,5 +18,5 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
 PRODUCT_DEVICE := p1m
 PRODUCT_NAME := omni_p1m
 PRODUCT_BRAND := lenovo
-PRODUCT_MODEL := Lenovo P1m
-PRODUCT_MANUFACTURER := lenovo
+PRODUCT_MODEL := P1m
+PRODUCT_MANUFACTURER := Lenovo
